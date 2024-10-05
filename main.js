@@ -7,17 +7,15 @@ const { spawn } = require("child_process");
 const readline = require("readline");
 
 const banner = `\x1b[33m
-███████╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗██║   ██║██╔══██╗████╗  ██║
-███████╗███████║██║   ██║███████║██╔██╗ ██║
-╚════██║██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║
-███████║██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║
-╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
-                                                                                                  
-    Auto Claim Bot For Major - @savanop
-    Author  : Airdop script  : Thanks to @savan
-    Github  : https://github.com/Savanop121
-    Telegram: https://t.me/savanop121
+███    ██  ██████  ████████      ██████ ██████  ██    ██ ██████  ████████  ██████  
+████   ██ ██    ██    ██        ██      ██   ██  ██  ██  ██   ██    ██    ██    ██ 
+██ ██  ██ ██    ██    ██        ██      ██████    ████   ██████     ██    ██    ██ 
+██  ██ ██ ██    ██    ██        ██      ██   ██    ██    ██         ██    ██    ██ 
+██   ████  ██████     ██         ██████ ██   ██    ██    ██         ██     ██████  
+                                                                                             
+    Auto Blum Script Made by © - @NotCryptoz
+    Script Channel  : https://t.me/Instant_Script
+    Airdrop Channel: https://t.me/Instant_Earn77
 \x1b[0m`;
 
 class Major {
